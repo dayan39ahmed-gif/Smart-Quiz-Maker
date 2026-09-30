@@ -1,0 +1,16 @@
+# Compiled programs
+sqm
+sqm.exe
+*.exe
+*.out
+*.o
+
+# Data files the program generates while running
+adminsdata.txt
+teachersdata.txt
+studentsdata.txt
+answersoresults.txt
+temp.txt
+tempanswersoresults.txt
+*_Quiz.txt
+*_verification.txt
